@@ -6,7 +6,7 @@ export interface Instructor {
 
 export const instructors: Instructor[] = [
   { subject: "华文", name: "陈凯颖", ig: "kaiyintan__" },
-  { subject: "国文", name: "Cikgu Munawwarah Rahim", ig: "munawwarahrahim_" },
+  { subject: "国文", name: "Cikgu Munawwarah Rahim", ig: null },
   { subject: "英文", name: "蔡昊", ig: null },
   { subject: "数学", name: "李佩清", ig: "peiching2226" },
   { subject: "科学", name: "韩詠欣", ig: "catherine.g.z.w" },
